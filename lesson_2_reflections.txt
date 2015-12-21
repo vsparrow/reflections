@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository a dir .get is created, which contains the metadata for the new repository consisting of all files and subfolders where git was initialized.
+It may be needed to iniitialze a repository if there is a new dir created where we are going to add files or if an existing dir was made but needed to have a revisioning method.

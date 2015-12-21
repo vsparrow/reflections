@@ -9,3 +9,8 @@ Staging area is a temp directory that has all the files that one wnats to be com
 so it can contain 0,1, or more files
 the working dir/repository has all the files in the respository so if a small change is being made on a large set of data
 it ould help to use the staging area nad make the commit focused on t what fiels are being edited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding one file to the stagin area at a time, you can create a commit for that file directly.
+This way changes and commits can be logically related

@@ -14,3 +14,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By adding one file to the stagin area at a time, you can create a commit for that file directly.
 This way changes and commits can be logically related
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If there were any drastic changes that needed to be made or things that neeeded to be experimented on, a branch could keep all the versions together yet seperate at the same time.

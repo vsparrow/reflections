@@ -18,3 +18,7 @@ This way changes and commits can be logically related
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If there were any drastic changes that needed to be made or things that neeeded to be experimented on, a branch could keep all the versions together yet seperate at the same time.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help vizualize branch structure by showing the diverging paths and paretns branches of different branches.. This way one is able to see how different branches are related and when/where the projects had a difference take place.

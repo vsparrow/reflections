@@ -22,3 +22,7 @@ If there were any drastic changes that needed to be made or things that neeeded 
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help vizualize branch structure by showing the diverging paths and paretns branches of different branches.. This way one is able to see how different branches are related and when/where the projects had a difference take place.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When two branches are merged together their commits are merged into the "master" commit. This makes the process actually somewhat more difficult as commits when sorted by date or no longer logically sequential in the same manner s prior to the merger. IN the diagram they are repreented as a 2 branches combinging into a single branch with 2 parent branch.

@@ -36,3 +36,9 @@ The pro of manual merges is that every line of code is vettted by the author, th
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 With manual pulls you are getting updates when you want them. If you are alreday working on a commit, and new commits are made remotley, you do not want remote commits to interfere with the local work you are doing. Say you are working with a.js and there are changes to a.js remotely, you dont want that coming in immediatly.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a clone in github, or other dev project, that credits the original source and can have pull requests so  changes can go back upstream. Excellent when collaborating with remote unknown users whose code you would like to use, with the option of contributing back. No need to share permissions on your own fork.
+Clone is a copy of a repository, and can be done locally or remotley. This is when you want ot seperate proejcts or take from an existing project and no longer have a relation with the source.
+Branch is a alternate version of a local reposistory. Branches live in the same repository. It is useful when working locally and you ahve some ideas you wante to implement but not have to touch master.

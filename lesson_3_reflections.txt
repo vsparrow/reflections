@@ -4,3 +4,12 @@ There are different reasons for having a remote respository rather than storing 
 One would be for backup purposes, this way there is another copy of your work stored externally from one device/location/site.
 Two would be to share the repostory data with others who may not have remote access to your local repostory.
 A third reason ofr a remote respotry would be if you dont ahve a local reposotyr because you are working at a site where data is not saved, example, netcafe or using  netbook with no or little storage.
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+To collaborate without github, there could be several ways to do this. They would in general be a little more difficult, which is why GIT/Githb is so popular.
+THere would need to be some way to control source code, such as svn where one "checkout" and locks the file from editing.
+Or without a way of version contorl all the merges would have to be collaboritive and manual, or one person would need to make the merges.
+Code has been worked on collaboritivly before git/github, it just takes more effort than the smooth process that tthis collaborative mthod is giving.

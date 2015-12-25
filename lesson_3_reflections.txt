@@ -13,3 +13,7 @@ To collaborate without github, there could be several ways to do this. They woul
 THere would need to be some way to control source code, such as svn where one "checkout" and locks the file from editing.
 Or without a way of version contorl all the merges would have to be collaboritive and manual, or one person would need to make the merges.
 Code has been worked on collaboritivly before git/github, it just takes more effort than the smooth process that tthis collaborative mthod is giving.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are making some new experimental changes or there are concepts that you arent sure about you want to branch away from master. Master will be your "go to" code the working production model, while the branches will have code that can be worked on and played with to come up with new methods to implment concepts The benifit of updating master is that you have a linear progression of code being worked with along with the commits that you can revert to and there is no potential merge conflict
